@@ -1,3 +1,5 @@
+"use-client"
+
 import Header from "../app/Components/header";
 import Image from "next/image";
 import Footer from "./footer";
