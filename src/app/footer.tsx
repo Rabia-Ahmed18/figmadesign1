@@ -8,7 +8,6 @@ import facebook from "./Public/images/facebook.png";
 import linkedin from "./Public/images/Linkedin.png";
 import twitter from "./Public/images/twitter.png";
 import shape from "./Public/images/shape.png";
-import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 

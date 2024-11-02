@@ -15,9 +15,6 @@ import picture2 from "./Public/images/picture2.png";
 import picture3 from "./Public/images/picture3.png";
 import contactpic from "./Public/images/contactpic.png";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from 'react-bootstrap/Navbar';
-import Container from 'react-bootstrap/Container';
-
 
 export default function Page() {
   return (

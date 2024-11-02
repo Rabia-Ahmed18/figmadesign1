@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Navbar from "react-bootstrap/Navbar";
-import Container from "react-bootstrap/Container";
 import headerPic from "../Public/images/headerPic.png";
 import Image from "next/image";
 
