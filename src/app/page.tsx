@@ -2,7 +2,6 @@ import Header from "../app/Components/header";
 import Image from "next/image";
 import Footer from "./footer";
 import main1 from "./Public/images/main1.png";
-import headerPic from "./Public/images/headerPic.png";
 import one from "./Public/images/one.png";
 import two from "./Public/images/two.png";
 import pro1 from "./Public/images/pro1.png";
